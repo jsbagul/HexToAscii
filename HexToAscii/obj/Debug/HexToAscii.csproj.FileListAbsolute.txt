@@ -1,0 +1,10 @@
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\bin\Debug\HexToAscii.exe.config
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\bin\Debug\HexToAscii.exe
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\bin\Debug\HexToAscii.pdb
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\obj\Debug\HexToAscii.csproj.AssemblyReference.cache
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\obj\Debug\HexToAscii.Form1.resources
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\obj\Debug\HexToAscii.Properties.Resources.resources
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\obj\Debug\HexToAscii.csproj.GenerateResource.cache
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\obj\Debug\HexToAscii.csproj.CoreCompileInputs.cache
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\obj\Debug\HexToAscii.exe
+E:\Jayesh\InbusDisaplayProject\HexToAscii\HexToAscii\HexToAscii\obj\Debug\HexToAscii.pdb
